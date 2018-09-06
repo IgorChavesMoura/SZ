@@ -1,0 +1,40 @@
+.navbar {
+
+	background-color: #3232C4 !important;
+
+
+}
+
+.navbar-brand {
+
+	color:#FFF !important;
+
+}
+
+.navbar-text {
+
+	color:#FFF !important;
+
+}
+
+.footer {
+
+	width: 100%;
+	background-color: #3232C4;
+	position: absolute;
+    bottom: 0;
+
+}
+
+.footer-name {
+
+	text-align: center !important;
+
+}
+
+
+.latest {
+
+	margin-top:30px;
+
+}
